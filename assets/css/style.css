@@ -180,8 +180,13 @@ textarea {
   gap: 8px;
 }
 
-button {
+button,
+a {
   -webkit-tap-highlight-color: transparent;
+}
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
 }
 
 .btn {
