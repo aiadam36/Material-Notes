@@ -181,11 +181,11 @@ textarea {
 }
 
 button,
-a {
+a,
+a:hover,
+a:focus,
+a:active {
   -webkit-tap-highlight-color: transparent;
-}
-
-a, a:hover, a:focus, a:active {
   text-decoration: none;
 }
 
