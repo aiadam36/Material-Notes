@@ -2,6 +2,7 @@ const CACHE_NAME = "material-notes-v1";
 const ASSETS = [
   "./",
   "./index.html",
+  "./app.html",
   "./info.html",
   "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap",
   "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
