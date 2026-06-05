@@ -1,3 +1,11 @@
+<div align="center">
+
+**This project is no longer maintained. Please use its successor instead: https://github.com/aiadam36/TakeNote**
+
+</div>
+
+---
+
 # Material Notes
 
 A lightweight, browser-based note-taking app styled with Material Design 3
